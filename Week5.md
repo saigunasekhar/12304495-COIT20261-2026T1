@@ -1,1 +1,5 @@
+![gns](./images/Vlan-Basics-12304495.02.png)
+![gns](./images/Vlan-Basics-12304495.03.png)
+![gns](./images/Vlan-Basics-12304495.04.png)
+![gns](./images/Vlan-Basics-12304495.05.png)
 ![gns](./images/Vlan-Basics-12304495.01.png)
