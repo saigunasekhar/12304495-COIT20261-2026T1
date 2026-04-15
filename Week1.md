@@ -1,1 +1,1 @@
-![gns](./images/GNS-intro-12304495-network.png)
+![gns](./images/GNS-intro-12304495-NETWORK.png)
