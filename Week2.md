@@ -13,6 +13,7 @@
 ![gns](./images/GNS-setting-ip-12304495.05.png)
 
 We used the `ping` command to see if the computers could talk to each other. When we used `ping` we got results. The computers could talk to each other without any problems and it did not take long for them to respond. We tried to `ping` an address on purpose and the system told us that the host was unreachable which shows how the system knows when there is a problem.
+
 ![gns](./images/GNS-setting-ip-12304495.06.png)
 #
 ![gns](./images/GNS-setting-ip-12304495.07.png)
