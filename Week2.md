@@ -15,7 +15,9 @@
 We used the `ping` command to see if the computers could talk to each other. When we used `ping` we got results. The computers could talk to each other without any problems and it did not take long for them to respond. We tried to `ping` an address on purpose and the system told us that the host was unreachable which shows how the system knows when there is a problem.
 
 ![gns](./images/GNS-setting-ip-12304495.06.png)
-#
+
+We also tried ping` settings, like how many times to `ping` how often to `ping` and how big the packets should be to see what would happen when we tested the network.
+
 ![gns](./images/GNS-setting-ip-12304495.07.png)
 #
 ![gns](./images/GNS-setting-ip-12304495.08.png)
