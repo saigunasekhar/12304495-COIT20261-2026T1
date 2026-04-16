@@ -9,3 +9,5 @@
 ![gns](./images/Vlan-Basics-12304495.01.png)
 
 ![gns](./images/Vlan-Router-12304495-ping.png)
+
+![gns](./images/Vlan-Router-12304495-ports.png)
