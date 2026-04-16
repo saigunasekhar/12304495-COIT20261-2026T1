@@ -5,3 +5,6 @@
 
 
 ![gns](./images/GNS-intro-12304495-ipaddress.png)
+
+### After setting the IP Address, we need to clink on the web console and give the command
+
