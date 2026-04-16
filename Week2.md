@@ -23,4 +23,6 @@ We also tried ping` settings, like how many times to `ping` how often to `ping` 
 ![gns](./images/GNS-setting-ip-12304495.08.png)
 #
 ![gns](./images/GNS-setting-ip-12304495.09.png)
-#
+
+So in our lab we were able to set up the Linux computers with their addresses make sure the network was working and test the connection, between the computers, which is what we wanted to do with the Linux environment and the `ping` command and the network.
+
