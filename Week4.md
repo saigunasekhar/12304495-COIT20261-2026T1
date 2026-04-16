@@ -12,6 +12,14 @@ The router had routes to both subnets.
 
 ![gns](./images/view-routes-12304495-host2.png)
 ![gns](./images/view-routes-12304495-ping.png)
+
+We used the ping command to test connectivity between the two subnets.
+The test was successful with no packet loss and low latency.
+This meant the router was correctly directing traffic between networks.
+It also showed how important routing tables and default gateways are for communication between networks
+The router and routing tables helped the hosts in the two subnets to communicate with each other.
+The default gateways on the hosts and the IP forwarding, on the router made this communication possible.
+
 ![gns](./images/view-routes-12304495-router.png)
 
 # TASK 2:
