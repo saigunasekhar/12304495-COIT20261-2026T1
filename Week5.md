@@ -8,3 +8,4 @@
 
 ![gns](./images/Vlan-Basics-12304495.01.png)
 
+![gns](./images/Vlan-Routers-12304495-ping.png)
