@@ -1,2 +1,5 @@
 ![gns](./images/view-routes-12304495-network.png)
 ![gns](./images/view-routes-12304495-host1.png)
+![gns](./images/view-routes-12304495-host2.png)
+![gns](./images/view-routes-12304495-ping.png)
+![gns](./images/view-routes-12304495-router.png)
