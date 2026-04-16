@@ -11,3 +11,5 @@
 ![gns](./images/Vlan-Router-12304495-ping.png)
 
 ![gns](./images/Vlan-Router-12304495-ports.png)
+
+![gns](./images/Vlan-Routers-12304495-ports1.png)
