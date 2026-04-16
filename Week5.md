@@ -6,9 +6,11 @@
 
 ![gns](./images/Vlan-Basics-12304495.04.png)
 
+# Task 2:
+
 ![gns](./images/Vlan-Basics-12304495.01.png)
 
-# Task 2:
+
 
 ![gns](./images/Vlan-Router-12304495-ping.png)
 
