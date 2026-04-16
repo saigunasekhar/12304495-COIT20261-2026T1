@@ -3,3 +3,4 @@
 ![gns](./images/view-routes-12304495-host2.png)
 ![gns](./images/view-routes-12304495-ping.png)
 ![gns](./images/view-routes-12304495-router.png)
+![gns](./images/OSPF-BASICS.png)
