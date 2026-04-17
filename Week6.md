@@ -5,3 +5,5 @@
 # TASK 2:
 
 ![gns](./images/Default-Gateway-12304495-Network.png)
+
+![gns](./images/Default-Gateway-12304495-Host1.png)
