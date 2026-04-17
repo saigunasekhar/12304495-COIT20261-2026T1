@@ -24,4 +24,6 @@ In Task 2 the network is divided into smaller networks that are connected by two
 
 ![gns](./images/Default-Gateway-12304495-Router2.png)
 
+These activities show us two things about networking: ARP and routing. The first task shows that when we are on the network we need ARP to change IP addresses into MAC addresses. This helps devices know who they are talking to. The second task shows how we can talk to devices on networks. We use something called default gateways and routers to do this. We also need things called routing tables and IP forwarding.
+Both of these tasks teach us that we need **ARP** to figure out addresses on our network and **routing** to talk to other networks. We need both ARP. Routing to make sure data gets where it needs to go both on our own network and, on other networks.
 
