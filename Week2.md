@@ -1,4 +1,4 @@
-# TASK 1 
+# TASK 1:
 
 ![gns](./images/GNS-Setting-ip-12304495.00.png)
 
