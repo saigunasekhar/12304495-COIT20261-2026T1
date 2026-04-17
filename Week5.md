@@ -27,7 +27,8 @@ The routers are special because they can forward information from one network to
 
 ![gns](./images/Vlan-Routers-12304495-ports1.png)
 
-So the assignments show how communication works inside and between networks. The first task shows that devices on the network use ARP to find each others MAC addresses, which helps them talk to each other inside a local area network.
+## CONCLUSION:
 
+So the assignments show how communication works inside and between networks. The first task shows that devices on the network use ARP to find each others MAC addresses, which helps them talk to each other inside a local area network.
 The second task shows that when devices on networks want to talk to each other they need to go through the right doors, which are the default gateways and routers.
 These tasks together show that communication inside a network is pretty simple because ARP takes care of it. When devices on different networks want to talk to each other they need to have the right internet address and routing set up or it will not work. The assignments really drive home the point that communication between networks like these needs to be set up correctly and that's what the internet protocol and routing are for to make sure devices, on different networks can talk to each other.
