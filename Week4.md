@@ -1,3 +1,5 @@
+# TASK 1:
+
 ![gns](./images/view-routes-12304495-network.png)
 
 In Task 1 we set up a network with three hosts, one switch and one router. This created two subnets: 10.10.10.0/24 and 10.10.11.0/24.
