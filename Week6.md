@@ -9,3 +9,11 @@
 ![gns](./images/Default-Gateway-12304495-Host1.png)
 
 ![gns](./images/Default-Gateway-12304495-Host2.png)
+
+![gns](./images/Default-Gateway-12304495-Host3.png)
+
+![gns](./images/Default-Gateway-12304495-Router1.png)
+
+![gns](./images/Default-Gateway-12304495-Router2.png)
+
+
